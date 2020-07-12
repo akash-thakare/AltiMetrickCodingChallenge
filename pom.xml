@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.altimetrik</groupId>
-	<artifactId>springApiJWithAuth</artifactId>
+	<artifactId>SpringApiWithJWTAuth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>AltimetrikAuthenticationApi</name>
 	<description></description>
